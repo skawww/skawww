@@ -66,8 +66,8 @@
 
 <div align="center">
 
-[![oni shrimp's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=onishrimp&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![oni shrimp's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=onishrimp&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Skawww's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=skawww&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Skawww's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=skawww&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
 
